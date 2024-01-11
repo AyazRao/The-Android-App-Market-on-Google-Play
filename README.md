@@ -32,6 +32,7 @@ Mobile apps are ubiquitous, easy to create, and offer lucrative opportunities. T
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/AyazRao/The-Android-App-Market-on-Google-Play.git
+   cd The-Android-App-Market-on-Google-Play
 
 ## Instructions for Running the Code
 
